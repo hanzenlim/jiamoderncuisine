@@ -16,14 +16,14 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 150px;
+    min-height: 120px;
   }
 
   .u-section-1 .u-text-1 {
     font-size: 1.5rem;
     width: auto;
-    margin-top: 94px;
-    margin-bottom: 30px;
+    margin-top: 76px;
+    margin-bottom: 18px;
   }
 } .u-section-2 {
   background-image: none;
@@ -259,4 +259,6 @@
     margin-top: 22px;
     margin-bottom: 22px;
   }
+}.menu-collapse .u-nav-link svg {
+  color: white;	
 }
