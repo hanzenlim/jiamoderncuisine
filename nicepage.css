@@ -43187,17 +43187,20 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-right: -14px;
   }
 }
+@media (max-width: 991px) {
+  .u-header .u-sheet-1 {
+    min-height: 67px;
+  }
 
+  .u-header .u-menu-1 {
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+}
 
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
     min-height: 56px;
-  }
-
-  .u-header .u-menu-1 {
-    margin-top: 10px;
-    margin-right: 0;
-    margin-bottom: 10px;
   }
 }
  .u-footer {
