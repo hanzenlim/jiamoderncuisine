@@ -197,11 +197,19 @@
   }
 
   .u-section-2 .u-image-6 {
-    margin-top: -8px;
+    margin-top: 20px;
+  }
+
+  .u-section-2 .u-image-9 {
+    margin-top: 20px;
   }
 }
 
 @media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 5258px;
+  }
+
   .u-section-2 .u-image-1 {
     height: 436px;
   }
