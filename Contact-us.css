@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 410px;
+  min-height: 686px;
 }
 
 .u-section-1 .u-text-1 {
@@ -7,9 +7,14 @@
   margin: 12px auto 0;
 }
 
+.u-section-1 .u-image-1 {
+  width: 304px;
+  height: 304px;
+  margin: 0 auto;
+}
+
 .u-section-1 .u-list-1 {
-  margin-top: 34px;
-  margin-bottom: 60px;
+  margin: -64px 0 60px;
 }
 
 .u-section-1 .u-repeater-1 {
@@ -66,6 +71,11 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-1 .u-list-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
   .u-section-1 .u-repeater-1 {
     grid-auto-columns: 33.333333333333336%;
     grid-template-columns: repeat(3, 33.333333333333336%);
