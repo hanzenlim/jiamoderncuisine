@@ -111,4 +111,9 @@
     padding-left: 10px;
     padding-right: 10px;
   }
+}@font-face {
+  font-family: 'SFPRODISPLAYMEDIUM';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/SFPRODISPLAYMEDIUM.OTF);
 }

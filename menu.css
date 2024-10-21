@@ -271,4 +271,9 @@
 }
 .menu-collapse .u-nav-link svg {
   color: white;	
+}@font-face {
+  font-family: 'SFPRODISPLAYMEDIUM';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/SFPRODISPLAYMEDIUM.OTF);
 }
