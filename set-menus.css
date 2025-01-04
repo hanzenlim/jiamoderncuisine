@@ -41,7 +41,7 @@
 
 .u-section-2 .u-image-2 {
   height: 1620px;
-  margin-top: 0;
+  margin-top: 41px;
   margin-bottom: 60px;
 }
 
@@ -67,12 +67,14 @@
   }
 
   .u-section-2 .u-image-1 {
-    height: 1075px;
+    height: 1019px;
     margin-top: 70px;
   }
 
   .u-section-2 .u-image-2 {
-    height: 927px;
+    height: 1040px;
+    margin-top: 98px;
+    margin-bottom: 60px;
   }
 }
 
@@ -84,23 +86,22 @@
   .u-section-2 .u-image-1 {
     margin-top: 60px;
   }
-
-  .u-section-2 .u-image-2 {
-    margin-bottom: 60px;
-  }
 }
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1050px;
+    min-height: 1028px;
   }
 
   .u-section-2 .u-image-1 {
-    height: 527px;
+    height: 474px;
+    margin-top: 0;
   }
 
   .u-section-2 .u-image-2 {
-    height: 441px;
+    height: 473px;
+    margin-top: 23px;
+    margin-bottom: 57px;
   }
 }.menu-collapse .u-nav-link svg {
   color: white;	
