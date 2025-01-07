@@ -513,7 +513,7 @@
   text-transform: none;
   font-weight: 700;
   font-family: SFPRODISPLAYBOLD;
-  margin: -24px 855px 5px 0;
+  margin: -24px 855px 0 0;
 }
 
 @media (max-width: 1199px) {
