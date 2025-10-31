@@ -48763,6 +48763,12 @@ a.u-link.u-text-hover-color-var:hover {
   .u-footer .u-sheet-1 {
     min-height: 174px;
   }
+
+  .u-footer .u-custom-html-1 {
+    margin-top: 1px;
+    margin-right: initial;
+    margin-left: initial;
+  }
 }
 
  /*begin-variables base-font-size*/ 

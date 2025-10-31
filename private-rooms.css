@@ -86,13 +86,13 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 251px;
+    min-height: 197px;
   }
 
   .u-section-1 .u-group-1 {
-    min-height: 180px;
-    margin-top: 30px;
-    margin-bottom: 42px;
+    min-height: 178px;
+    margin-top: 0;
+    margin-bottom: 19px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -101,13 +101,12 @@
   .u-section-1 .u-container-layout-1 {
     padding-left: 0;
     padding-right: 0;
-    padding-top: 26px;
   }
 
   .u-section-1 .u-text-1 {
     width: auto;
     font-size: 2.25rem;
-    margin-top: 28px;
+    margin-top: 25px;
     margin-left: 24px;
     margin-right: 24px;
   }
