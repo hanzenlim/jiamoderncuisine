@@ -19,9 +19,9 @@
 
 .u-section-1 .u-repeater-1 {
   grid-auto-columns: 33.3333%;
-  grid-template-columns: 33.3333% 33.3333% 33.3333%;
+  grid-template-columns: repeat(3, 33.3333%);
   min-height: 238px;
-  grid-gap: 0px 0px;
+  --gap: 0px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -80,6 +80,7 @@
     grid-auto-columns: 33.333333333333336%;
     grid-template-columns: repeat(3, 33.333333333333336%);
     min-height: 196px;
+    grid-gap: 0px 0px;
   }
 }
 
