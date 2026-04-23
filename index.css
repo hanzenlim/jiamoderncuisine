@@ -395,7 +395,7 @@
   }
 
   .u-section-3 .u-text-2 {
-    font-size: 1.11111rem;
+    font-size: 1.1111111111111112rem;
     line-height: 1.15;
     margin-right: 0;
     margin-left: 14px;
@@ -689,7 +689,7 @@
   text-transform: none;
   font-weight: 700;
   font-family: SFPRODISPLAYBOLD;
-  margin: -24px 855px 0 0;
+  margin: -36px 915px 60px 60px;
 }
 
 @media (max-width: 1199px) {
@@ -780,7 +780,9 @@
   }
 
   .u-section-5 .u-text-4 {
-    margin: -24px 410px 60px 50px;
+    margin-top: -36px;
+    margin-right: 454px;
+    margin-left: 106px;
   }
 }
 
@@ -868,10 +870,8 @@
   }
 
   .u-section-5 .u-text-4 {
-    width: auto;
+    width: 163px;
     margin-top: -209px;
-    margin-left: 28px;
-    margin-right: 28px;
   }
 } .u-section-6 {
   min-height: 400px;
