@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://jiamoderncuisine.com/home.html</loc>
-        <lastmod>2025-11-10T21:22:34-05:00</lastmod>
+        <loc>https://jiamoderncuisine.com/</loc>
+        <lastmod>2026-08-08</lastmod>
     </url>
     <url>
-        <loc>https://jiamoderncuisine.com/index.html</loc>
-        <lastmod>2025-11-10T21:22:34-05:00</lastmod>
+        <loc>https://jiamoderncuisine.com/menu</loc>
+        <lastmod>2025-11-16</lastmod>
     </url>
     <url>
-        <loc>https://jiamoderncuisine.com/menu.html</loc>
-        <lastmod>2025-11-16T22:09:04-05:00</lastmod>
+        <loc>https://jiamoderncuisine.com/set-menus</loc>
+        <lastmod>2026-08-08</lastmod>
     </url>
     <url>
-        <loc>https://jiamoderncuisine.com/set-menus.html</loc>
-        <lastmod>2026-02-05T21:29:01-05:00</lastmod>
+        <loc>https://jiamoderncuisine.com/private-rooms</loc>
+        <lastmod>2025-11-10</lastmod>
     </url>
     <url>
-        <loc>https://jiamoderncuisine.com/Contact-us.html</loc>
-        <lastmod>2025-11-10T21:22:59-05:00</lastmod>
-    </url>
-    <url>
-        <loc>https://jiamoderncuisine.com/private-rooms.html</loc>
-        <lastmod>2025-11-10T21:28:23-05:00</lastmod>
+        <loc>https://jiamoderncuisine.com/contact-us</loc>
+        <lastmod>2025-11-10</lastmod>
     </url>
 </urlset>

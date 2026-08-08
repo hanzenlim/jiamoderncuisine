@@ -1,0 +1,94 @@
+# Canonicalise every page onto its extensionless URL so Google sees one
+# indexable URL per page instead of a .html / no-.html pair.
+# force = true is required because the source .html files exist on disk.
+
+[[redirects]]
+  from = "/index.html"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/home.html"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/contact.html"
+  to = "/contact-us"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/menu.html"
+  to = "/menu"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/set-menus.html"
+  to = "/set-menus"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/private-rooms.html"
+  to = "/private-rooms"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/contact-us.html"
+  to = "/contact-us"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/blog.html"
+  to = "/blog/blog"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/post.html"
+  to = "/blog/post"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/post-1.html"
+  to = "/blog/post-1"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/post-2.html"
+  to = "/blog/post-2"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/post-3.html"
+  to = "/blog/post-3"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/post-4.html"
+  to = "/blog/post-4"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/post-5.html"
+  to = "/blog/post-5"
+  status = 301
+  force = true
+
+# /blog/ currently 404s
+[[redirects]]
+  from = "/blog"
+  to = "/blog/blog"
+  status = 301
+  force = true
